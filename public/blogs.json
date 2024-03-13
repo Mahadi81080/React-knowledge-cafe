@@ -2,11 +2,11 @@
     {
       "id": 1,
       "title": "The Art of Programming",
-      "cover": "https://example.com/art_of_programming.jpg",
+      "cover": "https://i.postimg.cc/PxkN3zKq/2.png",
       "author": "Alice Smith",
-      "author-img": "https://i.postimg.cc/LXSWWt26/boy2.jpg",
-      "posted-date": "2024-03-12",
-      "reading-time": 15,
+      "author_img": "https://i.postimg.cc/LXSWWt26/boy2.jpg",
+      "posted_date": "2024-03-12",
+      "reading_time": 15,
       "hashtags": ["#programming", "#coding", "#software"]
     },
     {
@@ -14,9 +14,9 @@
       "title": "Exploring the Universe",
       "cover": "https://i.postimg.cc/tTzcGs4d/4.jpg",
       "author": "Bob Johnson",
-      "author-img": "https://i.postimg.cc/3NSbWzpd/girl2.jpg",
-      "posted-date": "2024-03-10",
-      "reading-time": 20,
+      "author_img": "https://i.postimg.cc/3NSbWzpd/girl2.jpg",
+      "posted_date": "2024-03-10",
+      "reading_time": 20,
       "hashtags": ["#space", "#astronomy", "#science"]
     },
     {
@@ -24,9 +24,9 @@
       "title": "Healthy Eating Habits",
       "cover": "https://i.postimg.cc/rFHPTXMH/3.png",
       "author": "Emily Brown",
-      "author-img": "https://i.postimg.cc/fbnq3c3j/boy1.png",
-      "posted-date": "2024-03-08",
-      "reading-time": 12,
+      "author_img": "https://i.postimg.cc/fbnq3c3j/boy1.png",
+      "posted_date": "2024-03-08",
+      "reading_time": 12,
       "hashtags": ["#health", "#nutrition", "#food"]
     },
     {
@@ -34,20 +34,10 @@
       "title": "Traveling the World: A Journey",
       "cover": "https://i.postimg.cc/L6JxNCL3/1.jpg",
       "author": "David Lee",
-      "author-img": "https://i.postimg.cc/tTrzzWgc/girl1.jpg",
-      "posted-date": "2024-03-05",
-      "reading-time": 30,
+      "author_img": "https://i.postimg.cc/tTrzzWgc/girl1.jpg",
+      "posted_date": "2024-03-05",
+      "reading_time": 30,
       "hashtags": ["#travel", "#adventure", "#explore"]
-    },
-    {
-      "id": 5,
-      "title": "The Power of Meditation",
-      "cover": "https://i.postimg.cc/4dncsMJ8/clark-tibbs-oq-Stl2-L5ox-I-unsplash.jpg",
-      "author": "Sophia Miller",
-      "author-img": "https://i.postimg.cc/tTrzzWgc/girl1.jpg",
-      "posted-date": "2024-03-03",
-      "reading-time": 18,
-      "hashtags": ["#meditation", "#mindfulness", "#wellness"]
     }
   ]
   
